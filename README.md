@@ -1,4 +1,4 @@
-# MSGCN: Muiltiplex Spatial Graph Convolutional Networks
+# MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction
 
 This repository contains the code for the Multiplex Spatial Graph Convolution Network (MSGCN), a multilayer link weight prediction method for spatial multiplex networks. The code also includes synthetic data generation to test the MSGCN method with different multiplex network types and sizes. The supported network types are complete, random, and small-world. 
 
@@ -6,9 +6,9 @@ This repository contains the code for the Multiplex Spatial Graph Convolution Ne
 
 Please cite the following paper if you use this code. 
 
-```Steven Ewan Wilson and Sina Khanmohammadi. "MSGCN: Multiplex Spatial Graph Convolutional Network for Interlayer Link Weight Prediction." arXiv preprint arXiv:TBD (2025).```
+```Steven E. Wilson and Sina Khanmohammadi. "MSGCN: Multiplex Spatial Graph Convolutional Network for Interlayer Link Weight Prediction." arXiv preprint arXiv:2504.17749 (2025).```
 
-[https://arxiv.org/](https://arxiv.org/).
+[https://arxiv.org/abs/2504.17749](https://arxiv.org/abs/2504.17749).
 
 ## Authors
 
